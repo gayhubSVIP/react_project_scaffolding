@@ -1,4 +1,4 @@
-# 居乐屋微站项目
+# react项目脚手架
 
 ### 技术栈
 
@@ -52,3 +52,11 @@ Project
 └── yarn.lock                   // 依赖锁
    
 ```
+### 重构
+
+1. redux
+2. saga
+3. 封装model层
+4. 优化webpack
+5. TypeScript
+6. axios
